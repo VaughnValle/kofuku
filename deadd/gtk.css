@@ -1,0 +1,70 @@
+/* BUGS
+ * .title font configs (size and weight) not working for notif-popups and notifs in the notif-center
+ * .date (working) instead of label.deadd-noti-center.noti-center.date (not working)
+ * multiple instances overlapping each other when opening the notif center
+*/
+
+
+/* Global Settings */
+.deadd-noti-center{
+	font-family: Noto Sans;
+}
+
+
+/* Notif Center Settigns */
+label.deadd-noti-center.noti-center.time{
+	font-size: 100px;
+	font-weight: 400;
+	margin-top: 1em;
+	margin-left: 4.3em;
+}
+
+.date{
+	font-size: 1em;
+	font-weight: 200;
+	margin-left: 7.5em;
+	margin-top: 1em;
+	margin-bottom: 2em;
+}
+
+label.deadd-noti-center.in-center.appname{
+
+}
+label.deadd-noti-center.in-center.body{
+	font-size: 0.9em;
+	font-weight: 200;
+	margin-bottom: 1em;
+}
+label.deadd-noti-center.in-center.title{
+	font-size: 0.5em;
+	font-weight: 800;
+
+}
+label.title{
+	font-weight: 800;
+}
+label.deadd-noti-center.in-center.time{
+
+}
+image.deadd-noti-center.in-center.image{
+
+}
+image.deadd-noti-center.in-center.icon{
+
+}
+
+/* Notification pop ups */
+label.deadd-noti-center.notification.appname{}
+label.deadd-noti-center.notification.body{
+	font-size: 0.8em;
+	font-weight: 200;
+}
+label.deadd-noti-center.notification.title{
+	margin-top: -0.3em;
+	font-size: 0.5em;
+	font-weight: 100em;
+}
+image.deadd-noti-center.notification.image{
+	
+}
+image.deadd-noti-center.notification.icon{}
