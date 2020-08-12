@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/MAC-NO-blueviolet?style=for-the-badge">
 </p>
 
+![alt text](https://raw.githubusercontent.com/VaughnValle/kofuku/master/images/teh2.png "Preview")
+
 Kofuku (bliss in Japanese) is a lightweight and minimalist Linux setup using Artix Linux. This setup uses BSPWM as the tiling window manager.
 
 
