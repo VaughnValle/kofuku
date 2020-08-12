@@ -1,6 +1,4 @@
 # Kofuku
-Kofuku (bliss in Japanese) is a lightweight and minimalist Linux setup using Artix Linux. This setup uses BSPWM as the tiling window manager.
-
 <p align="center">
   <img src="https://img.shields.io/badge/MAINTAINED-YES-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge">
@@ -8,6 +6,8 @@ Kofuku (bliss in Japanese) is a lightweight and minimalist Linux setup using Art
   <img src="https://img.shields.io/badge/WINDOWS-NO-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/MAC-NO-blueviolet?style=for-the-badge">
 </p>
+
+Kofuku (bliss in Japanese) is a lightweight and minimalist Linux setup using Artix Linux. This setup uses BSPWM as the tiling window manager.
 
 
 ## Dependencies
