@@ -1,14 +1,12 @@
 # Kofuku
 Kofuku (bliss in Japanese) is a lightweight and minimalist Linux setup using Artix Linux. This setup uses BSPWM as the tiling window manager.
 
-#[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/adi1090x/slim_themes?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/adi1090x/slim_themes?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/adi1090x/slim_themes?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/adi1090x/slim_themes?color=violet&style=for-the-badge">
+  <img src="https://img.shields.io/badge/MAINTAINED-YES-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LINUX-YES-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WINDOWS-NO-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MAC-NO-blueviolet?style=for-the-badge">
 </p>
 
 
