@@ -10,7 +10,7 @@
 Kofuku (bliss in Japanese) is a lightweight and minimalist Linux setup using Artix Linux. This setup uses BSPWM as the tiling window manager.
 
 
-Love the content? Consider supporting me on these platforms:
+Love the content? Consider supporting me __on these platforms:__
 
 
 [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sudo_rice)
