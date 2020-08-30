@@ -1,8 +1,8 @@
-# Kofuku
+<h1 align="center">Kofuku</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/MAINTAINED-YES-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LINUX-YES-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/VaughnValle/kofuku?style=for-the-badge">
 </p>
 
 ![alt text](https://raw.githubusercontent.com/VaughnValle/kofuku/master/images/teh2.png "Preview")
