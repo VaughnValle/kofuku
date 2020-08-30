@@ -11,6 +11,7 @@ Kofuku (bliss in Japanese) is a lightweight and minimalist Linux setup using Art
 
 
 Love the content? Consider supporting me on: https://tinyurl.com/ydx35uwd
+
 [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sudo_rice)
 [![](https://raw.githubusercontent.com/VaughnValle/demo/master/yt-badge.png)](https://www.youtube.com/sudo_rice)
 
