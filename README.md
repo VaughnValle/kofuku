@@ -37,10 +37,7 @@ Love the content? Consider supporting me __on these platforms:__
 ## Installation (Arch-based distros) WIP
 __NOTE:__ This guide uses ``~/Downloads`` as the default path for cloning repos
 
-## Installation (Ubuntu-based distros) WIP
-__NOTE:__ This guide uses ``~/Downloads`` as the default path for cloning repos
-
-## Installation Steps (Ubuntu/Pop! OS 20.04)
+## Installation Steps (Ubuntu/Pop! OS 20.04) WIP
 __NOTE:__ This guide uses ``~/Downloads`` as the default path for cloning repos
 1. Update your repositories:
 
